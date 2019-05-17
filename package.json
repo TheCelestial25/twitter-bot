@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "A bot that replies to tweet provided as input.",
+  "main": "bot.js",
+  "dependencies": {
+    "q": "^1.5.1",
+    "request": "^2.88.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "11.7.0",
+    "npm": "6.5.0"
+  }
+}
