@@ -11,4 +11,4 @@ Instructions for use:
 2. Add details from your twitter app to 'config.js' and modify 'bot.js' to use your username.
 3. Start the server with npm start.
 
-Here's a link to my article for more details - https://medium.com/@spriyanshu25/twitter-bot-reply-to-any-tweet-provided-as-input-28a3507cb7da?source=friends_link&sk=24eceb0faa8d11dd1d4f315cd7838ed4
+Here's a link to my article for more details - [Medium article by Priyanshu Singh](https://medium.com/@spriyanshu25/twitter-bot-reply-to-any-tweet-provided-as-input-28a3507cb7da?source=friends_link&sk=24eceb0faa8d11dd1d4f315cd7838ed4)
