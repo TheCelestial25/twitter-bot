@@ -3,7 +3,7 @@ A twitter bot that replies to a given input tweet.
 
 In order to test the bot:
 1. Log in to your twitter account.
-2. Post - @dev_celestial <link to any tweet>
+2. Post - @dev_celestial (link to any tweet)
 3. See the bot in action as it tweets a reply to the tweet mentioning the user.
 
 Instructions for use:
